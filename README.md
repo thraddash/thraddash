@@ -5,7 +5,7 @@
 
 - 🌱 ToDo/Review/POC/Testing **Go, Ansible, Terraform, AWS, Chef, Puppet, Databricks, ElK**
 
-- 📫 How to reach me **thraddash@spathiwa.com**
+- 📫 
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/jtong2020/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="gaurav-pandey-a5b884131" height="30" width="40" /></a></p>
