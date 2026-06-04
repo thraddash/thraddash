@@ -1,7 +1,7 @@
 
 <a href="https://thraddash.github.io" target="https://thraddash.github.io"><img align="center" src="https://github.com/thraddash/thraddash.github.io_old/blob/master/assets/img/avatar/dark-avatar.png"  height="150" width="150" />thraddash.github.io</a>
 
-- 🔭 I’m currently working on **CI/CD pipeline, automation, zfs**
+- 🔭 I’m currently working on 
 
 - 🌱 ToDo/Review/POC/Testing **Go, Ansible, Terraform, AWS, Chef, Puppet, Databricks, ElK**
 
